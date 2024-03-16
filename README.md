@@ -1,4 +1,4 @@
-# ColabTensorFlow
+# GithubTensorFlow
 This repository contains the support files for the Google Colaboratory and TensorFlow Virtual Teaching and Learning project at HKBU School of Communication.
 
 The codes in this repository are a selection from the Google [Introduction to Colaboratory](https://colab.research.google.com) and 
